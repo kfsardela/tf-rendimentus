@@ -42,7 +42,7 @@ button[type=submit]{
   top: 0%;
   background: #1E2044;
   position: fixed;
-  width: 100%;
+  width: 100vw;
   height: 49px;
   z-index: 1;
 }
