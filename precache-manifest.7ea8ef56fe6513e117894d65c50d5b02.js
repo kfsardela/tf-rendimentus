@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "561a3952f9ef641aa74af8cf8820a772",
+    "revision": "8ef86c71e0874ea8dd536b0cc030e168",
     "url": "/tf-rendimentus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tf-rendimentus/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "52675d1a4d81990619d9",
+    "revision": "a6fd2086bef91f1da152",
     "url": "/tf-rendimentus/static/css/main.b58e39ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tf-rendimentus/static/js/2.2cfc61a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52675d1a4d81990619d9",
-    "url": "/tf-rendimentus/static/js/main.4976c89a.chunk.js"
+    "revision": "a6fd2086bef91f1da152",
+    "url": "/tf-rendimentus/static/js/main.5d16753a.chunk.js"
   },
   {
     "revision": "3d5605885fa992881f4a",

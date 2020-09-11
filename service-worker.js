@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tf-rendimentus/precache-manifest.1e7b524199ea4c73001e3e91cfb2e3d1.js"
+  "/tf-rendimentus/precache-manifest.7ea8ef56fe6513e117894d65c50d5b02.js"
 );
 
 self.addEventListener('message', (event) => {
