@@ -15,12 +15,20 @@ Senha: 123456
 
 ## 1. Desafio Safra
 
+Esta aplicação foi desenvolvida durante o Talent Fest, evento no formato hackathon realizado ao final do bootcamp da Laboratória, onde as alunas desenvolvem aplicações propostas por empresas participantes ao longo de três dias. Este projeto foi proposto como desafio pelo Banco Safra.
+
 Projeto Rendimentus para organização das suas contas e cartões. Em uma única plataforma, faça a gestão do seu dinheiro e conheça as ofertas de produtos e serviços disponíveis pelas instituições. Depois de conferir as ofertas e escolher aquelas que têm mais a ver com você e com seu momento de vida, através de um clique, você pode iniciar uma conversa com o time de atendimento da instituição para negociar as condições e adquirir o seu produto.
 
 ## 2. Solução
-Para a solução do desafio nós criamos um dashboard  baseadas nas necessidades do usuários em visualizar todas as contas  existentes de varias instituintes financeiras. Além de poder acessá-las e controlar seus gastos e obter soluções quando seu crédito for inferior a sua movimentara bancaria.
+Para a solução do desafio nós criamos um *DASHBOARD*  baseadas nas necessidades do usuários em visualizar todas as contas  existentes de varias instituintes financeiras. Além de poder acessá-las e controlar seus gastos e obter soluções quando seu crédito for inferior a sua movimentara bancaria.
 
 ## 3. Interface
+
+### Protótipo 
+
+Por meio da ferramenta Figma, elaboramos nosso protótipo no modelo *mobile first* e *Desktop*
+![Prot1]()
+
 
 ## 4. Tecnologias 
  
