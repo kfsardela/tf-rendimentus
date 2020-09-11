@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.b58e39ed.chunk.css",
-    "main.js": "/static/js/main.fe4d00cd.chunk.js",
-    "main.js.map": "/static/js/main.fe4d00cd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.49b0ef31.js",
-    "runtime-main.js.map": "/static/js/runtime-main.49b0ef31.js.map",
-    "static/css/2.d34346ea.chunk.css": "/static/css/2.d34346ea.chunk.css",
-    "static/js/2.2cfc61a5.chunk.js": "/static/js/2.2cfc61a5.chunk.js",
-    "static/js/2.2cfc61a5.chunk.js.map": "/static/js/2.2cfc61a5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.22e1ed6ec606a3631a367d068af254ed.js": "/precache-manifest.22e1ed6ec606a3631a367d068af254ed.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d34346ea.chunk.css.map": "/static/css/2.d34346ea.chunk.css.map",
-    "static/css/main.b58e39ed.chunk.css.map": "/static/css/main.b58e39ed.chunk.css.map",
-    "static/js/2.2cfc61a5.chunk.js.LICENSE.txt": "/static/js/2.2cfc61a5.chunk.js.LICENSE.txt",
-    "static/media/banco-safra-logo.png": "/static/media/banco-safra-logo.32ba2380.png",
-    "static/media/dinheiro.png": "/static/media/dinheiro.f1bd3e2b.png",
-    "static/media/extrato.png": "/static/media/extrato.b12b5948.png",
-    "static/media/logo.png": "/static/media/logo.32ba2380.png"
+    "main.css": "/alessandramarinho/tf-rendimentus/static/css/main.b58e39ed.chunk.css",
+    "main.js": "/alessandramarinho/tf-rendimentus/static/js/main.f37473cb.chunk.js",
+    "main.js.map": "/alessandramarinho/tf-rendimentus/static/js/main.f37473cb.chunk.js.map",
+    "runtime-main.js": "/alessandramarinho/tf-rendimentus/static/js/runtime-main.242755a3.js",
+    "runtime-main.js.map": "/alessandramarinho/tf-rendimentus/static/js/runtime-main.242755a3.js.map",
+    "static/css/2.d34346ea.chunk.css": "/alessandramarinho/tf-rendimentus/static/css/2.d34346ea.chunk.css",
+    "static/js/2.2cfc61a5.chunk.js": "/alessandramarinho/tf-rendimentus/static/js/2.2cfc61a5.chunk.js",
+    "static/js/2.2cfc61a5.chunk.js.map": "/alessandramarinho/tf-rendimentus/static/js/2.2cfc61a5.chunk.js.map",
+    "index.html": "/alessandramarinho/tf-rendimentus/index.html",
+    "precache-manifest.3e59151a33d60cb97bc299236b317fc2.js": "/alessandramarinho/tf-rendimentus/precache-manifest.3e59151a33d60cb97bc299236b317fc2.js",
+    "service-worker.js": "/alessandramarinho/tf-rendimentus/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/alessandramarinho/tf-rendimentus/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.b58e39ed.chunk.css.map": "/alessandramarinho/tf-rendimentus/static/css/main.b58e39ed.chunk.css.map",
+    "static/js/2.2cfc61a5.chunk.js.LICENSE.txt": "/alessandramarinho/tf-rendimentus/static/js/2.2cfc61a5.chunk.js.LICENSE.txt",
+    "static/media/banco-safra-logo.png": "/alessandramarinho/tf-rendimentus/static/media/banco-safra-logo.32ba2380.png",
+    "static/media/dinheiro.png": "/alessandramarinho/tf-rendimentus/static/media/dinheiro.f1bd3e2b.png",
+    "static/media/extrato.png": "/alessandramarinho/tf-rendimentus/static/media/extrato.b12b5948.png",
+    "static/media/logo.png": "/alessandramarinho/tf-rendimentus/static/media/logo.32ba2380.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.49b0ef31.js",
+    "static/js/runtime-main.242755a3.js",
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.2cfc61a5.chunk.js",
     "static/css/main.b58e39ed.chunk.css",
-    "static/js/main.fe4d00cd.chunk.js"
+    "static/js/main.f37473cb.chunk.js"
   ]
 }
